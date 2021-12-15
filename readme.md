@@ -24,3 +24,6 @@
 - 터미널 열기
 - python manage.py runserver
   - 끄기 : Ctrl + C
+
+## 커밋 3
+- 언어, 시간대 변경
