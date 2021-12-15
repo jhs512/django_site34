@@ -4,6 +4,9 @@
 - DB : site34
 - DBMS ID : sbsst
 - DBMS PW : sbs123414
+- 장고 superuser 아이디 : admin
+- 장고 superuser 이메일 : 없음
+- 장고 superuser 비번 : 1234
 
 # 커밋
 
@@ -27,3 +30,10 @@
 
 ## 커밋 3
 - 언어, 시간대 변경
+
+## 커밋 4
+- python manage.py migrate
+- python manage.py createsuperuser
+  - 아이디 : admin
+  - 이메일 : 없음
+  - 비번 : 1234
